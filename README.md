@@ -19,4 +19,4 @@
 - JavaScript<br>
 - Webpack <br>
 
-  ## [Live](https://artanmerko.github.io/restaurant-page/)
+  ## [Live](https://artanmerko.github.io/restaurant-page/dist/)
